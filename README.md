@@ -2,9 +2,13 @@
 
 Arquitetura Projeto:
 º Linguagem: CSharp
+
 º Orquestrador de Testes: Nunit
+
 º Framework BDD: SpecFlow
+
 º Framework de interação com elementos web: Selenium.WebDriver
+
 ---------------------------------------------------------------------------------------------------------------------------------------------
 Neste projeto foi implementado BDD,  utilizando a ferramenta SpecFLow é uma ferramenta open source para BDD na plataforma . NET e parte da família Cucumber, que suporta outras plataformas, na pasta Features, foram criados cénarios reais de uma forma estruturada.
 
